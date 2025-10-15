@@ -101,6 +101,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 
 ## Entrepreneurship
 - https://basecamp.com/shapeup
+- [The Great CEO Within](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit)
   
 ## Web Design
 - https://speakerdeck.com/tracymakes/design-for-non-designers-beyond-tellerand-dusseldorf-2018
