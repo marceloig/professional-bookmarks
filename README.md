@@ -43,6 +43,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - [Visualising software architecture with the C4 model](https://s3.amazonaws.com/static.codingthearchitecture.com/presentations/aotb2019-visualising-software-architecture-with-the-c4-model.pdf)
 - https://read.highgrowthengineer.com/p/the-5-levels-of-communicating-impact
 - https://newsletter.pragmaticengineer.com/p/migrations
+- https://how.complexsystems.fail/
 
 ## Platform Engineering
 - https://itnext.io/internal-developer-platform-insights-from-conversations-with-over-100-experts-dbe332353afc
