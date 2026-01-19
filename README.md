@@ -119,6 +119,9 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.readysetcloud.io/
 - https://theburningmonk.com/
 
+## English
+- https://youglish.com/
+
 ## Tools
 - https://boxyhq.com/
 - https://github.com/rustdesk/rustdesk
