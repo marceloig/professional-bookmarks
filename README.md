@@ -46,6 +46,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://how.complexsystems.fail/
 - https://github.com/systemdesign42/system-design-academy
 - https://roadmap.sh/
+- examprepper.co
 
 ## Platform Engineering
 - https://itnext.io/internal-developer-platform-insights-from-conversations-with-over-100-experts-dbe332353afc
