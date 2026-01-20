@@ -22,7 +22,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf
 - https://dicasdecarreira.dev/
 
-### Front-end
+## Front-end
 - https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md
 - https://daveceddia.com/react-getting-started-tutorial/
 - https://github.com/brillout/awesome-react-components
