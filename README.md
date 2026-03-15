@@ -60,6 +60,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/
 
 ## AWS
+- [AFT Blueprints and Best Practices](https://awslabs.github.io/aft-blueprints/)
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
 - https://pedrodelgallego.github.io/blog/amazon/tolerating-eliminating-duplication/
 - https://github.com/build-on-aws
@@ -83,7 +84,6 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://aws.amazon.com/prescriptive-guidance/
 - https://catalog.workshops.aws/awscff/en-US
 - https://medium.com/@joudwawad/aws-ecs-deep-dive-c8f773af0bf6
-- (AFT Blueprints and Best Practices) [https://awslabs.github.io/aft-blueprints/]
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
