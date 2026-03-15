@@ -60,7 +60,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/
 
 ## AWS
-- [AFT Blueprints and Best Practices](https://awslabs.github.io/aft-blueprints/)
+- [AFT (Account Factory for Terraform) Blueprints and Best Practices](https://awslabs.github.io/aft-blueprints/)
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
 - https://pedrodelgallego.github.io/blog/amazon/tolerating-eliminating-duplication/
 - https://github.com/build-on-aws
