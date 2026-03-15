@@ -57,6 +57,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://humanitec.com/
 - https://codefresh.io/blog/how-to-structure-your-argo-cd-repositories-using-application-sets/
 - https://codefresh.io/blog/how-to-model-your-gitops-environments-and-promote-releases-between-them/
+- https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
