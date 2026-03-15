@@ -55,6 +55,8 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://itnext.io/11-internal-developer-platforms-you-should-know-38394c47f508
 - https://www.pionative.com/
 - https://humanitec.com/
+- https://codefresh.io/blog/how-to-structure-your-argo-cd-repositories-using-application-sets/
+- https://codefresh.io/blog/how-to-model-your-gitops-environments-and-promote-releases-between-them/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
