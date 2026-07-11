@@ -148,6 +148,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://wasp-lang.dev/
 - https://it-tools.tech/
 - https://pdf.pcdomanual.com/
+- [Port Forwarding to RDS private instance by using EKS](https://stackoverflow.com/questions/73782070/is-there-a-simple-way-on-eks-to-use-pgadmin-from-local-machine-to-access-rds-ins)
   
 ### DevOps
 - https://www.runatlantis.io/
