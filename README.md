@@ -86,6 +86,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://catalog.workshops.aws/awscff/en-US
 - https://medium.com/@joudwawad/aws-ecs-deep-dive-c8f773af0bf6
 - https://cloudpunk.blog/
+- https://hidekazu-konishi.com/entry/amazon_route_53_dns_architecture_guide.html
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
