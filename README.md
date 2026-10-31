@@ -100,6 +100,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://aws-samples.github.io/cloud-operations-best-practices/
 - https://medium.com/@ayoubajdour20/automating-kubernetes-deployments-with-helm-and-gitops-using-argocd-f7e0d92d3ceb
 - https://github.com/stakater/nordmart-apps-gitops-config/tree/main
+- https://catalog.workshops.aws/java-on-aws/en-US/containerize-run
   
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
