@@ -59,6 +59,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://codefresh.io/blog/how-to-model-your-gitops-environments-and-promote-releases-between-them/
 - https://codefresh.io/blog/stop-using-branches-deploying-different-gitops-environments/
 - https://medium.com/@mbilalayyoob/gitops-on-eks-with-argocd-part-3-closing-the-loop-with-argocd-image-updater-ccc0068313d7
+- https://medium.com/kotaicode/how-to-manage-dev-staging-and-production-in-kubernetes-without-duplicating-yaml-141ce1b499d9
 
 ## AWS
 - [AFT (Account Factory for Terraform) Blueprints and Best Practices](https://awslabs.github.io/aft-blueprints/)
